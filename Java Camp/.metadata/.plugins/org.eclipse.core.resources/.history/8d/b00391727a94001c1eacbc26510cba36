@@ -1,0 +1,9 @@
+package Nyat;
+
+public class Circle {
+	private int r;
+	public Circle(int r) {
+		this.r=r;
+	}
+
+}

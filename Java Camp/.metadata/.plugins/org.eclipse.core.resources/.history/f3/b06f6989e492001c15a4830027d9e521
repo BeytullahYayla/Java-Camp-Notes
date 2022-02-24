@@ -1,0 +1,9 @@
+package oopIntro;
+
+public class Machine {
+	
+	public void Learn() {
+		
+	}
+
+}

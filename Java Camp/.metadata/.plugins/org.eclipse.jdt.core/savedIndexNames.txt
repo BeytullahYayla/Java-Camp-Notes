@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\ASUS\Desktop\Java Camp\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+278804527.index
+816072389.index
+2892782321.index

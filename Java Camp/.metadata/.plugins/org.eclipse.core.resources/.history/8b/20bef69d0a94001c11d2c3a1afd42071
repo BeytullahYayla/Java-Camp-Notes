@@ -1,0 +1,14 @@
+package oopIntro;
+
+public class main {
+
+	public static void main(String[] args) {
+		Product product1=new Product();
+		Product[] products = {
+				
+		};
+		System.out.println(product.length);
+
+	}
+
+}

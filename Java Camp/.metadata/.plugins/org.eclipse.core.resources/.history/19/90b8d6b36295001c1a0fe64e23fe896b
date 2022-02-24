@@ -1,0 +1,21 @@
+package oopIntro;
+
+public class Product {
+	int id;
+	String name;
+	double unitPrice;
+	double discount;
+	double unitPriceAfterDiscount;
+	String detail;
+	public Product(int id, String name, double unitPrice, String detail,double discount) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.unitPrice = unitPrice;
+		this.detail = detail;
+		this.discount=discount;
+	}
+	public Product() {
+		System.out.println("Product Ctor Executed");
+	}
+}

@@ -1,0 +1,10 @@
+package oopIntro;
+
+public class Category {
+	public Category() {
+		System.out.println("Category Constructor Executed");
+	}
+	int id;
+	String name;
+
+}
