@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="main.Entities.Customer"/>
+    <fullyQualifiedTypeName name="Assignment2.Entities.Abstract.Customer"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="Assignment2.Entities.Abstract.Entity"/>
+    <fullyQualifiedTypeName name="Assignment2.Business.Abstract.CustomerService"/>
+    <fullyQualifiedTypeName name="Assignment2.Business.Concrete.StarbucksCustomerManager"/>
+    <fullyQualifiedTypeName name="Assignment2.Entities.Concrete.Customer"/>
+    <fullyQualifiedTypeName name="Assignment2.Business.Concrete.BaseCustomerManager"/>
+    <fullyQualifiedTypeName name="Assignment2.Business.Concrete.CustomerCheckManager"/>
+    <fullyQualifiedTypeName name="Assignment2.Business.Abstract.CustomerCheckService"/>
 </qualifiedTypeNameHistroy>
