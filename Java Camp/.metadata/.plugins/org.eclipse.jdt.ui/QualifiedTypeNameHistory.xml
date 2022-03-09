@@ -11,7 +11,6 @@
     <fullyQualifiedTypeName name="Assignment2.Business.Concrete.BaseCustomerManager"/>
     <fullyQualifiedTypeName name="Assignment2.Business.Concrete.CustomerCheckManager"/>
     <fullyQualifiedTypeName name="Assignment2.Business.Abstract.CustomerCheckService"/>
-    <fullyQualifiedTypeName name="org.w3c.dom.Entity"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="Assignment3.Business.Abstract.CustomerService"/>
     <fullyQualifiedTypeName name="Assignment3.Business.Abstract.Logger"/>
@@ -19,5 +18,11 @@
     <fullyQualifiedTypeName name="Assignment3.Business.Abstract.CustomerCheckService"/>
     <fullyQualifiedTypeName name="Assignment3.Business.Concrete.CustomerCheckManager"/>
     <fullyQualifiedTypeName name="Assignment3.Business.Concrete.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.Entity"/>
+    <fullyQualifiedTypeName name="Assignment3.Business.Abstract.SalesPlatformService"/>
     <fullyQualifiedTypeName name="Assignment3.Entities.Concrete.Customer"/>
+    <fullyQualifiedTypeName name="Assignment3.Business.Concrete.SalesPlatformManager"/>
+    <fullyQualifiedTypeName name="Assignment3.Entities.Concrete.Campaign"/>
+    <fullyQualifiedTypeName name="Assignment3.Business.Concrete.CampaignManager"/>
+    <fullyQualifiedTypeName name="NLayeredDemo.entities.abstracts.Entity"/>
 </qualifiedTypeNameHistroy>
