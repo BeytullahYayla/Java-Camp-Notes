@@ -1,9 +1,12 @@
 package Assignment3;
 
 import Assignment3.Business.Abstract.CustomerCheckService;
+import Assignment3.Business.Concrete.CampaignManager;
 import Assignment3.Business.Concrete.CustomerCheckManager;
 import Assignment3.Business.Concrete.CustomerManager;
 import Assignment3.Business.Concrete.DatabaseLogger;
+import Assignment3.Business.Concrete.SalesPlatformManager;
+import Assignment3.Entities.Concrete.Campaign;
 import Assignment3.Entities.Concrete.Customer;
 
 public class Main {
@@ -13,7 +16,14 @@ public class Main {
 	
 		CustomerManager customerManager=new CustomerManager(new CustomerCheckManager(),new DatabaseLogger());
 		Customer customer1=new Customer(1,"Beytullah","Yayla","26/02/2002","48835155908");
-		customerManager.addCustomer(customer1);
+		customerManager.addCustomer(customer1);//customer1 added to Db
+		
+		SalesPlatformManager salesPlatformManager=new SalesPlatformManager();
+		salesPlatformManager.Sale(customer1);
+		
+		Campaign campaign=new Campaign(1,"Yuzde yetmis indirim !!!!!!",70.0);
+		CampaignManager campaignManager=new CampaignManager();
+		campaignManager.addCampaign(campaign);
 
 	}
 
