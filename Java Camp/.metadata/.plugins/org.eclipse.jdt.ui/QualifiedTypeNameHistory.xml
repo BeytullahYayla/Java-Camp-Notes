@@ -25,4 +25,14 @@
     <fullyQualifiedTypeName name="Assignment3.Entities.Concrete.Campaign"/>
     <fullyQualifiedTypeName name="Assignment3.Business.Concrete.CampaignManager"/>
     <fullyQualifiedTypeName name="NLayeredDemo.entities.abstracts.Entity"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="NLayeredDemo.business.abstracts.ProductService"/>
+    <fullyQualifiedTypeName name="NLayeredDemo.dataAccess.concretes.HybernateProductDao"/>
+    <fullyQualifiedTypeName name="NLayeredDemo.entities.concretes.Product"/>
+    <fullyQualifiedTypeName name="NLayeredDemo.dataAccess.abstracts.ProductDao"/>
+    <fullyQualifiedTypeName name="NLayeredDemo.dataAccess.concretes.AbcProductDao"/>
+    <fullyQualifiedTypeName name="NLayeredDemo.jLogger.JLoggerManager"/>
+    <fullyQualifiedTypeName name="NLayeredDemo.core.LoggerService"/>
+    <fullyQualifiedTypeName name="NLayeredDemo.core.JLoggerAdapterManager"/>
 </qualifiedTypeNameHistroy>
